@@ -13,5 +13,10 @@
   },
   "dependencies": {
     "three": "^0.166.1"
-  }
+  },
+  "description": "Download [Node.js](https://nodejs.org/en/download/).\r Run this followed commands:",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
